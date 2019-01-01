@@ -13,16 +13,17 @@ samp {
 
 // Inline code
 code {
-  padding: 2px 4px;
-  font-size: 90%;
-  color: $code-color;
-  background-color: $code-bg;
-  border-radius: $border-radius-base;
+   padding: 2px 4px;
+   font-size: 90%;
+   color: #ffffff;
+   background-color: #092f2f;
+   border-radius: 11px;
+   font-size: 0.9em;
 }
 
 // User input typically entered via keyboard
 kbd {
-  padding: 2px 4px;
+   padding: 2px 4px;
   font-size: 90%;
   color: $kbd-color;
   background-color: $kbd-bg;
