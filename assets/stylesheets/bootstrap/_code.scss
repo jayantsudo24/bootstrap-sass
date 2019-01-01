@@ -11,16 +11,13 @@ samp {
   font-family: $font-family-monospace;
 }
 
-
-// Inline code
-
-code {  
-  padding: 3px 10px;    
-  font-size: 0.9em;
+code {
   color: #ffffff;
   background-color: #193838;
   border-radius: 11px;
-
+  font-size: 0.9em;
+  padding: 2px 9px;     
+}
 
 // User input typically entered via keyboard
 kbd {
